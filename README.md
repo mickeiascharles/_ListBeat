@@ -28,7 +28,8 @@ Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâm
 
 <div>
   Protótipo
-  <img height="200cm" src="ListBeat Prototipo.png"/>
+  <a href="https://www.figma.com/design/r4RmvX6rQ1r28RTQ3Xfukr/ListBeat?node-id=0-1&m=dev">
+  <img height="200cm" src="https://www.figma.com/design/r4RmvX6rQ1r28RTQ3Xfukr/ListBeat?node-id=0-1&p=f&m=dev"/>
 </div>
 
 <div>
