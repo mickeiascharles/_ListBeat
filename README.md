@@ -1,6 +1,7 @@
 # _ListBeat
 <div> 
   <img height="200cm" src="[https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true](https://i.postimg.cc/Xqv4KGtw/Letring-Logo.png)"/>
+  <img height="200cm" src="Letring Logo.png"/>
 </div>
 Projeto final do HackaTruck
 Objetivo do Projeto: Criar um catálogo musical pessoal, no estilo Letterboxd (para filmes), mas adaptado para músicas. O usuário pode adicionar músicas ou álbuns, avaliá-los, deixar comentários, criar listas de favoritos e acompanhar o histórico das músicas que já ouviu. O sistema será offline e utilizará um banco de dados não relacional (JSON ou SQLite) para armazenamento local dos dados.
