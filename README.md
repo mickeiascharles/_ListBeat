@@ -1,6 +1,5 @@
 # _ListBeat
 <div> 
-  <img height="200cm" src="[https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true](https://i.postimg.cc/Xqv4KGtw/Letring-Logo.png)"/>
   <img height="200cm" src="Letring Logo.png"/>
 </div>
 Projeto final do HackaTruck
