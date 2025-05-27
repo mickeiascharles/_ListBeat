@@ -27,9 +27,8 @@ Motivação: O projeto foi criado para resolver a falta de uma plataforma simple
 Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâmica e acessível para manter seu catálogo musical pessoal, podendo acompanhar suas músicas favoritas, suas avaliações e descobrir novas faixas com base no que já escutou e avaliou. Isso vai melhorar a forma como ele organiza e revisita suas músicas preferidas.
 
 <div>
-  Protótipo
   <a href="https://www.figma.com/design/r4RmvX6rQ1r28RTQ3Xfukr/ListBeat?node-id=0-1&m=dev">
-  <img height="200cm" src="ListBeat Prototipo.jpg"/>
+  <img height="500cm" src="ListBeat Prototipo.jpg"/>
 </div>
 
 <div>
