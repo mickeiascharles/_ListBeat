@@ -2,6 +2,7 @@
   <img height="200cm" src="Letring Logo.png"/>
 </div>
 Projeto final do HackaTruck
+
 Objetivo do Projeto: Criar um catálogo musical pessoal, no estilo Letterboxd (para filmes), mas adaptado para músicas. O usuário pode adicionar músicas ou álbuns, avaliá-los, deixar comentários, criar listas de favoritos e acompanhar o histórico das músicas que já ouviu. O sistema será offline e utilizará um banco de dados não relacional (JSON ou SQLite) para armazenamento local dos dados.
 
 Funcionalidades Principais:
