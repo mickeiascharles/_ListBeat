@@ -28,7 +28,7 @@ Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâm
 
 <div>
   Protótipo
-  <img height="35cm" src="ListBeat Prototipo.png"/>
+  <img height="200cm" src="ListBeat Prototipo.png"/>
 </div>
 
 <div>
