@@ -42,3 +42,6 @@ Tecnologias envolvidas:
 <div>  
   <img height="35cm" src="[https://img.icons8.com/?size=512&id=40670&format=png](https://swiftwithmajid.com/public/swiftui.png)"/>
 </div>
+<div>  
+  <img height="35cm" src="Logo HackaTruck.png"/>
+</div>
