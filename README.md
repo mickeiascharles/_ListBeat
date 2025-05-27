@@ -1,4 +1,3 @@
-# _ListBeat
 <div> 
   <img height="200cm" src="Letring Logo.png"/>
 </div>
