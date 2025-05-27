@@ -27,6 +27,11 @@ Motivação: O projeto foi criado para resolver a falta de uma plataforma simple
 Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâmica e acessível para manter seu catálogo musical pessoal, podendo acompanhar suas músicas favoritas, suas avaliações e descobrir novas faixas com base no que já escutou e avaliou. Isso vai melhorar a forma como ele organiza e revisita suas músicas preferidas.
 
 <div>
+  Protótipo
+  <img height="35cm" src="ListBeat Prototipo.png"/>
+</div>
+
+<div>
 Equipe:
   <a href="https://www.linkedin.com/in/mickeiascharles/">
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
