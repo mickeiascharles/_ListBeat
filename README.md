@@ -38,11 +38,6 @@ Equipe:
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
   Igor Amaral
 </div>
-    
-<div> 
-  <img height="200cm" src="[https://github-readme-stats.vercel.app/api?username=mickeiascharles&theme=dark&show_icons=true&hide_border=true&count_private=true](https://i.postimg.cc/Xqv4KGtw/Letring-Logo.png)"/>
-</div>
-    
 Tecnologias envolvidas: 
 <div>  
   <img height="35cm" src="[https://img.icons8.com/?size=512&id=40670&format=png](https://swiftwithmajid.com/public/swiftui.png)"/>
