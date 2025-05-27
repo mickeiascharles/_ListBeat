@@ -30,6 +30,15 @@ Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâm
   <a href="https://www.figma.com/design/r4RmvX6rQ1r28RTQ3Xfukr/ListBeat?node-id=0-1&m=dev">
   <img height="500cm" src="ListBeat Prototipo.jpg"/>
 </div>
+    
+Tecnologias envolvidas: 
+<div>  
+  <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
+  <img height="35cm" src="https://nodered.org/about/resources/media/node-red-icon-2.png"/>
+  <img height="35cm" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
+  <img height="35cm" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ACUHUlirYVgIirkJ3aV_APy4M-FP0n_FlQ&s"/>
+  <img height="35cm" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp"/>
+</div>
 
 <div>
 Equipe:
@@ -43,10 +52,7 @@ Equipe:
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
   Igor Amaral
 </div>
-Tecnologias envolvidas: 
-<div>  
-  <img height="35cm" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
-</div>
+
 <div>  
   <img height="75cm" src="Logo HackaTruck.png"/>
 </div>
