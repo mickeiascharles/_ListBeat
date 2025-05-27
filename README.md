@@ -28,15 +28,15 @@ Impacto Esperado: Ao finalizar o projeto, o usuário terá uma plataforma dinâm
 
 <div>
 Equipe:
-  Mickeias Charles
   <a href="https://www.linkedin.com/in/mickeiascharles/">
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
-  Gustavo Henrique
+  Mickeias Charles
   <a href="https://www.linkedin.com/in/gustavo-henrique-0a737229b/">
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
-  Igor Amaral
+  Gustavo Henrique
   <a href="https://www.linkedin.com/in/igor-amaral-ferreira-16270a305/">
   <img height="50cm" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"/>
+  Igor Amaral
 </div>
     
 <div> 
